@@ -143,4 +143,7 @@ background-color: #0099cc;
 .margin-top{
 	margin-top: 25px;
 }
-
+.center{
+	text-align: center;
+	background-color: darkcyan;
+}
